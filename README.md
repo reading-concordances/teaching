@@ -4,4 +4,4 @@ This repository collects teaching materials created by the [RC21 project](https:
 
 All materials are available for reuse under the terms of the [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/) license (see file `LICENSE`).
 
-![CC BY-NC-SA 4.0](media/by-nc-nd.eu.png)
+![CC BY-NC-SA 4.0](media/by-nc-sa.eu.png)
