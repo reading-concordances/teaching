@@ -16,3 +16,6 @@ Tutorial at the [Konvens 2025 conference](https://konvens-2025.hs-hannover.de/pr
 - Jupyter Notebooks
   - Introduction: [Google Colab](https://colab.research.google.com/drive/1sAC7c0vljy6og_dSwHbvbCs3QTs4a6Lx?usp=sharing) – [download](flexiconc_introduction_Konvens_2025.ipynb)
   - Loading your own data: [Google Colab](https://colab.research.google.com/drive/1HuVRl748lWe65Mzl5HNge4Wwgq5xiqw2?usp=sharing) – [download](flexiconc_import_Konvens_2025.ipynb)
+- Files & data sets
+  - CQPweb export file: [CQPweb_WaterSanitation_ParlUK.txt](https://github.com/reading-concordances/teaching/blob/main/course/data/CQPweb_WaterSanitation_ParlUK.txt)
+  - pre-processed WMatrix corpus export: [WMatrix_Water_ParlUK.db](https://github.com/reading-concordances/teaching/blob/main/course/data/WMatrix_Water_ParlUK.db)
