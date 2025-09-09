@@ -12,7 +12,7 @@ Tutorial at the [Konvens 2025 conference](https://konvens-2025.hs-hannover.de/pr
 
 - Presentation slides
   - [RC21 Tutorial Part 1](RC21_Tutorial_KONVENS_part1.pdf) (PDF, 20 MB)
-  - Part 2
+  - [RC21 Tutorial Part 2](RC21_Tutorial_KONVENS_part2.pdf) (PDF, 3.2 MB)
 - Jupyter Notebooks
   - Introduction: [Google Colab](https://colab.research.google.com/drive/1sAC7c0vljy6og_dSwHbvbCs3QTs4a6Lx?usp=sharing) – [download](flexiconc_introduction_Konvens_2025.ipynb)
   - Loading your own data: [Google Colab](https://colab.research.google.com/drive/1HuVRl748lWe65Mzl5HNge4Wwgq5xiqw2?usp=sharing) – [download](flexiconc_import_Konvens_2025.ipynb)
