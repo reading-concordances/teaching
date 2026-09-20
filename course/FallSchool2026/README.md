@@ -40,3 +40,9 @@ _coming soon_
 
 All data files for the course are collected in our [GitHub repository](../data). _(NB: there may be updates during the course)_
 
+#### Fun toys
+
+- a little [lexical priming viewer](https://corpora.linguistik.uni-erlangen.de/experiments/LexicalPriming/)
+
+
+
