@@ -14,7 +14,7 @@ _Concordance analysis via a KWIC (Key Word In Context) display is a mainstay of 
 
 #### Day 2: Working with concordance tools
 
-- CQPweb [worked example](../../handouts/cqpweb_tta_cribsheet.pdf) (PDF)
+- CQPweb [worked example](https://raw.githubusercontent.com/reading-concordances/teaching/main/handouts/cqpweb_tta_cribsheet.pdf) (PDF)
 
 #### Day 3: Description
 
