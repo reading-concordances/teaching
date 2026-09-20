@@ -14,6 +14,8 @@ _Concordance analysis via a KWIC (Key Word In Context) display is a mainstay of 
 
 #### Day 2: Working with concordance tools
 
+- CQPweb [worked example](../../handouts/cqpweb_tta_cribsheet.pdf) (PDF)
+
 #### Day 3: Description
 
 #### Day 4: Reading with algorithms – the FlexiConc approach
@@ -36,5 +38,5 @@ _coming soon_
 
 #### Data files
 
-All data files for the course are collected in the [GitHub repository](https://github.com/reading-concordances/teaching/tree/main/course/data). _(NB: there may be updates during the course)_
+All data files for the course are collected in our [GitHub repository](../data). _(NB: there may be updates during the course)_
 
