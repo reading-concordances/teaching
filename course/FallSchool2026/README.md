@@ -12,6 +12,8 @@ _Concordance analysis via a KWIC (Key Word In Context) display is a mainstay of 
 
 #### Day 1: Introduction to concordance reading
 
+- coffee [coffee] (https://raw.githubusercontent.com/reading-concordances/teaching/main/FallSchool2026/coffee.pdf)
+
 #### Day 2: Working with concordance tools
 
 - CQPweb [worked example](https://raw.githubusercontent.com/reading-concordances/teaching/main/handouts/cqpweb_tta_cribsheet.pdf) (PDF)
