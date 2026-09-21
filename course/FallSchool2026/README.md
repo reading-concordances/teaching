@@ -12,7 +12,7 @@ _Concordance analysis via a KWIC (Key Word In Context) display is a mainstay of 
 
 #### Day 1: Introduction to concordance reading
 
-- true feelings
+- true feelings ./true_feelings
 - coffee 
 
 #### Day 2: Working with concordance tools
