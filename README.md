@@ -11,7 +11,7 @@ This repository collects teaching materials created by the RC21 project. All mat
 ## Courses
 
 - [**Reading Concordances: A training course in key corpus linguistics methodology**](https://www.dhss.phil.fau.eu/research/current-projects/reading-concordances-in-the-21st-century-rc21/rc21-events/esslli-2025-reading-concordances/) at ESSLLI 2025 (Bochum, Germany) – taught by _Stephanie Evert & Michaela Mahlberg_
-- [**Reading Concordances with Algorithms**](course/FallSchool2026) at UTN Computational Linguistics Fall School 2026 (Nürnberg, Germany) – taught by _Stephanie Evert & Michaela Mahlberg_
+- [**Reading Concordances with Algorithms**](course/FallSchool2026/) at UTN Computational Linguistics Fall School 2026 (Nürnberg, Germany) – taught by _Stephanie Evert & Michaela Mahlberg_
 
 
 
