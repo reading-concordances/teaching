@@ -35,7 +35,7 @@ These files allow you to reproduce the examples used in the notebooks.
 
 ### Citation
 
-Stephanie Evert, Alexander Piperski (2025). FlexiConc: Reading Concordances with Algorithms. Tutorial at the 21st Conference on Natural Language Processing (KONVENS 2025), 9 September 2025, Hildesheim, Germany. https://github.com/reading-concordances/teaching/main/blob/tutorials/konvens2025
+Stephanie Evert, Alexander Piperski (2025). FlexiConc: Reading Concordances with Algorithms. Tutorial at the 21st Conference on Natural Language Processing (KONVENS 2025), 9 September 2025, Hildesheim, Germany. https://github.com/reading-concordances/teaching/tree/main/tutorials/konvens2025
 
 
 
@@ -45,7 +45,8 @@ A hands-on guide to concordance analysis using FlexiConc via the **[CLiC web app
 
 This PDF walks through all currently available algorithms, illustrated with a case study on body part nouns in 19th-century English fiction. Includes exercises and worked examples.
 
-- [Handout](https://raw.githubusercontent.com/reading-concordances/teaching/main/course/handouts/flexiconc_clic_handout_all_steps.pdf)
+- [Handout](https://raw.githubusercontent.com/reading-concordances/teaching/main/course/handouts/flexiconc_clic_handout_all_steps.pdf) (PDF)
+- CLiC/FlexiConc analysis tree: [clic-analysis-tree_head_19c.json](https://raw.githubusercontent.com/reading-concordances/teaching/main/course/data/clic-analysis-tree_head_19c.json) (PDF)
 
 ### Citation
 
