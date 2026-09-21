@@ -18,7 +18,7 @@ These slides introduce the theoretical foundations and computational framework f
 Hands-on materials demonstrating how to use FlexiConc.
 
 - Introduction: [Google Colab](https://colab.research.google.com/drive/1sAC7c0vljy6og_dSwHbvbCs3QTs4a6Lx?usp=sharing) – [download notebook](flexiconc_introduction_Konvens_2025.ipynb)  
-- Loading your own data: [Google Colab](https://colab.research.google.com/drive/1HuVRl748lWe65Mzl5HNge4Wwgq5xiqw2?usp=sharing) – [download notebook](flexiconc_loading_data_Konvens_2025.ipynb)
+- Loading your own data: [Google Colab](https://colab.research.google.com/drive/1HuVRl748lWe65Mzl5HNge4Wwgq5xiqw2?usp=sharing) – [download notebook](flexiconc_import_Konvens_2025.ipynb)
 
 These notebooks demonstrate concordance analysis workflows and FlexiConc algorithms.
 
@@ -35,7 +35,7 @@ These files allow you to reproduce the examples used in the notebooks.
 
 ### Citation
 
-Stephanie Evert, Alexander Piperski (2025). FlexiConc: Reading Concordances with Algorithms. Tutorial at the 21st Conference on Natural Language Processing (KONVENS 2025), 9 September 2025, Hildesheim, Germany. https://github.com/reading-concordances/teaching/tutorials/konvens2025
+Stephanie Evert, Alexander Piperski (2025). FlexiConc: Reading Concordances with Algorithms. Tutorial at the 21st Conference on Natural Language Processing (KONVENS 2025), 9 September 2025, Hildesheim, Germany. https://github.com/reading-concordances/teaching/main/blob/tutorials/konvens2025
 
 
 
