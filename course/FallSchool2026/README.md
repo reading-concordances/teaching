@@ -19,6 +19,7 @@ _Concordance analysis via a KWIC (Key Word In Context) display is a mainstay of 
 
 - slides: [Working with concordance tools](https://raw.githubusercontent.com/reading-concordances/teaching/main/course/slides/2_working_with_concordance_tools.pdf) (PDF, 15.3 MB)
 - CQPweb [worked example](https://raw.githubusercontent.com/reading-concordances/teaching/main/course/handouts/cqpweb_tta_cribsheet.pdf) (PDF)
+- FlexiConc/CLiC example: [handout](https://raw.githubusercontent.com/reading-concordances/teaching/main/course/handouts/flexiconc_clich_handout_2026.pdf) (PDF, 8.8 MB)
 
 #### Day 3: Description
 
