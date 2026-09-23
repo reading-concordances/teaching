@@ -21,7 +21,9 @@ _Concordance analysis via a KWIC (Key Word In Context) display is a mainstay of 
 - CQPweb [worked example](https://raw.githubusercontent.com/reading-concordances/teaching/main/course/handouts/cqpweb_tta_cribsheet.pdf) (PDF)
 - FlexiConc/CLiC example: [handout](https://raw.githubusercontent.com/reading-concordances/teaching/main/course/handouts/flexiconc_clic_handout_2026.pdf) (PDF, 8.8 MB)
 
-#### Day 3: Description
+#### Day 3: Applications - the case of spatiotemporal analysis 
+
+https://colab.research.google.com/drive/1ilEkUWt7EcLEcqqiBQV1lCMBd_P3KQu9?usp=sharing
 
 #### Day 4: Reading with algorithms – the FlexiConc approach
 
