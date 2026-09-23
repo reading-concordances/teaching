@@ -24,9 +24,7 @@ _Concordance analysis via a KWIC (Key Word In Context) display is a mainstay of 
 #### Day 3: Applications - the case of spatiotemporal analysis 
 
 - slides: [Applications - Part 1](https://github.com/reading-concordances/teaching/blob/main/course/slides/3_Applications.pdf)
-
 - slides: Applications - Part 2 - [**Andreas Wagner**](https://www.dhss.phil.fau.de/person/andreas-wagner/) on "Reading spatiotemporal concordances" 
-
 - [Handson](https://colab.research.google.com/drive/1ilEkUWt7EcLEcqqiBQV1lCMBd_P3KQu9?usp=sharing)
 
 #### Day 4: Reading with algorithms – the FlexiConc approach
