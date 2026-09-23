@@ -25,7 +25,7 @@ _Concordance analysis via a KWIC (Key Word In Context) display is a mainstay of 
 
 - slides: [Applications - Part 1](https://github.com/reading-concordances/teaching/blob/main/course/slides/3_Applications.pdf)
 
-[Handson]https://colab.research.google.com/drive/1ilEkUWt7EcLEcqqiBQV1lCMBd_P3KQu9?usp=sharing
+- [Handson]https://colab.research.google.com/drive/1ilEkUWt7EcLEcqqiBQV1lCMBd_P3KQu9?usp=sharing
 
 #### Day 4: Reading with algorithms – the FlexiConc approach
 
