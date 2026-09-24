@@ -45,8 +45,8 @@ A hands-on guide to concordance analysis using FlexiConc via the **[CLiC web app
 
 This PDF walks through all currently available algorithms, illustrated with a case study on body part nouns in 19th-century English fiction. Includes exercises and worked examples.
 
-- [Handout](https://raw.githubusercontent.com/reading-concordances/teaching/main/course/handouts/flexiconc_clic_handout_all_steps.pdf) (PDF)
-- CLiC/FlexiConc analysis tree: [clic-analysis-tree_head_19c.json](https://raw.githubusercontent.com/reading-concordances/teaching/main/course/data/clic-analysis-tree_head_19c.json)
+- [Handout](https://raw.githubusercontent.com/reading-concordances/teaching/main/course/handouts/flexiconc_clic_handout_2026.pdf) (PDF, 8.4 MB)
+- CLiC/FlexiConc analysis tree for _head_: [clic-analysis-tree_head_19c.json](https://raw.githubusercontent.com/reading-concordances/teaching/main/course/data/clic-analysis-tree_head_19c.json)
 
 ### Citationx
 
