@@ -24,7 +24,7 @@ One-week course taught at the [**DGfS/GSCL Fall School 2026**](https://cl-fallsc
 #### Day 3: Applications - the case of spatiotemporal analysis 
 
 - slides: [Applications](https://raw.githubusercontent.com/reading-concordances/teaching/main/course/slides/3_applications.pdf) (PDF, 1.5 MB)
-- guest lecture: [**Andreas Wagner**](https://www.dhss.phil.fau.de/person/andreas-wagner/) on _Reading spatiotemporal concordances_
+- guest lecture: [**Andreas Wagner**](https://www.dhss.phil.fau.de/person/andreas-wagner/) on [Reading spatiotemporal concordances](https://github.com/reading-concordances/teaching/blob/main/course/slides/Reading%20Spatiotemporal%20Concordances%20of%20Floods%20in%20Germany%5B2%5D%20%20-%20%20Read-Only.pdf)
 - hands-on example: [Google Colab](https://colab.research.google.com/drive/1ilEkUWt7EcLEcqqiBQV1lCMBd_P3KQu9?usp=sharing)
 
 #### Day 4: Reading with algorithms – the FlexiConc approach
