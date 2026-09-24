@@ -30,7 +30,7 @@ One-week course taught at the [**DGfS/GSCL Fall School 2026**](https://cl-fallsc
 #### Day 4: Reading with algorithms – the FlexiConc approach
 
 - slides: [Reading with algorithms](https://raw.githubusercontent.com/reading-concordances/teaching/main/course/slides/4_reading_with_algorithms.pdf) (PDF, 7.7 MB)
-- CLiC/FlexiConc analysis tree for _eyes_: [clic-analysis-tree_head_19c.json](https://raw.githubusercontent.com/reading-concordances/teaching/main/course/data/clic-analysis-tree_head_19c.json)
+- CLiC/FlexiConc analysis tree for _head_: [clic-analysis-tree_head_19c.json](https://raw.githubusercontent.com/reading-concordances/teaching/main/course/data/clic-analysis-tree_head_19c.json)
 - CLiC/FlexiConc hands-on exercise: [handout](https://raw.githubusercontent.com/reading-concordances/teaching/main/course/handouts/flexiconc_clic_handout_2026.pdf) (PDF, 8.8 MB) – partial analysis tree (_coming up_)
 
 #### Day 5: Technical details and Jupyter notebooks
