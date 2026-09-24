@@ -48,6 +48,6 @@ This PDF walks through all currently available algorithms, illustrated with a ca
 - [Handout](https://raw.githubusercontent.com/reading-concordances/teaching/main/course/handouts/flexiconc_clic_handout_2026.pdf) (PDF, 8.4 MB)
 - CLiC/FlexiConc analysis tree for _head_: [clic-analysis-tree_head_19c.json](https://raw.githubusercontent.com/reading-concordances/teaching/main/course/data/clic-analysis-tree_head_19c.json)
 
-### Citationx
+### Citation
 
 Nathan Dykes, Stephanie Evert, Michaela Mahlberg, Alexander Piperski (2026).  *Using FlexiConc via CLiC: a case study on literary fiction.*
