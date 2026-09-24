@@ -35,7 +35,7 @@ One-week course taught at the [**DGfS/GSCL Fall School 2026**](https://cl-fallsc
 
 #### Day 5: Implementation and Jupyter notebooks
 
-- slides: Implementation & Jupyter
+- slides: [Implementation & Jupyter](https://raw.githubusercontent.com/reading-concordances/teaching/main/course/slides/5_implementation_and_jupyter.pdf) (PDF, 7.3 MB)
 - Jupyter notebooks in Google Colab: [Introduction to FlexiConc](https://colab.research.google.com/drive/1sAC7c0vljy6og_dSwHbvbCs3QTs4a6Lx?usp=sharing) – [Loading your own data](https://colab.research.google.com/drive/1HuVRl748lWe65Mzl5HNge4Wwgq5xiqw2?usp=sharing)
 - Jupyter notebooks for download: [Introduction to FlexiConc](../notebooks/flexiconc_introduction.ipynb) – [Loading your own data](../notebooks/flexiconc_import.ipynb)
 - sample concordance files: [CQPweb_WaterSanitation_ParlUK.txt](https://raw.githubusercontent.com/reading-concordances/teaching/main/course/data/CQPweb_WaterSanitation_ParlUK.txt) (0.5 MB) – [WMatrix_Water_ParlUK.db](https://raw.githubusercontent.com/reading-concordances/teaching/main/course/data/WMatrix_Water_ParlUK.db) (67 MB)
