@@ -63,6 +63,7 @@ All data files for the course are collected in our [GitHub repository](../data).
 #### Fun toys
 
 - a little [lexical priming viewer](https://corpora.linguistik.uni-erlangen.de/experiments/LexicalPriming/)
+- our [feedback form](https://forms.gle/k7n6ViVhNfjNgDZr7) for the course
 
 
 
